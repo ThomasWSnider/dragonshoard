@@ -18,3 +18,7 @@
 .divisible-by-three {
   color: orange;
 }
+
+.placeholder {
+  color: transparent;
+}
